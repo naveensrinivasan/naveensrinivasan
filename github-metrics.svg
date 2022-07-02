@@ -1918,10 +1918,10 @@
                                 <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,6.029850746268657 0,5.029850746268657 z"/>
                                 <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,5.029850746268657 1.7,6.029850746268657 z"/>
                             </g>
-                            <g transform="translate(-6.8, 7.671641791044776)">
+                            <g transform="translate(-6.8, 7.582089552238806)">
                                 <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.328358208955224 0,3.328358208955224 z"/>
-                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.328358208955224 1.7,4.328358208955224 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.417910447761194 0,3.417910447761194 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.417910447761194 1.7,4.417910447761194 z"/>
                             </g>
                             <g transform="translate(-8.5, 8.492537313432836)">
                                 <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
