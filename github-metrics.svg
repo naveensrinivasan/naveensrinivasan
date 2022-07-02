@@ -2071,10 +2071,10 @@
                                 <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.253731343283582 0,2.253731343283582 z"/>
                                 <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.253731343283582 1.7,3.253731343283582 z"/>
                             </g>
-                            <g transform="translate(-8.5, 9.656716417910449)">
-                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.343283582089552 0,2.343283582089552 z"/>
-                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.343283582089552 1.7,3.343283582089552 z"/>
+                            <g transform="translate(-8.5, 9.567164179104477)">
+                                <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.432835820895522 0,2.432835820895522 z"/>
+                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.432835820895522 1.7,3.432835820895522 z"/>
                             </g>
                         </g>
                     </g>
