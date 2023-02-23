@@ -22,19 +22,6 @@
 - [ossf/scorecard-action](https://github.com/ossf/scorecard-action) - Official GitHub Action for OpenSSF Scorecard. (2 months ago)
 
 
-#### 🔨 My recent Pull Requests
-
-- [Included github.com/robotsandpencils/go-saml](https://github.com/naveensrinivasan/scorecard-action/pull/27) on [naveensrinivasan/scorecard-action](https://github.com/naveensrinivasan/scorecard-action) (1 day ago)
-- [Included github.com/robotsandpencils/go-saml](https://github.com/naveensrinivasan/scorecard-action/pull/26) on [naveensrinivasan/scorecard-action](https://github.com/naveensrinivasan/scorecard-action) (1 day ago)
-- [Naveen/feat/dependency analysis](https://github.com/naveensrinivasan/scorecard-action/pull/24) on [naveensrinivasan/scorecard-action](https://github.com/naveensrinivasan/scorecard-action) (1 day ago)
-- [Deps analysis test](https://github.com/naveensrinivasan/scorecard-action/pull/23) on [naveensrinivasan/scorecard-action](https://github.com/naveensrinivasan/scorecard-action) (1 day ago)
-- [Deps analysis test](https://github.com/naveensrinivasan/scorecard-action/pull/22) on [naveensrinivasan/scorecard-action](https://github.com/naveensrinivasan/scorecard-action) (1 day ago)
-- [Naveen/feat/update deps](https://github.com/naveensrinivasan/scorecard-action/pull/21) on [naveensrinivasan/scorecard-action](https://github.com/naveensrinivasan/scorecard-action) (1 day ago)
-- [Naveen/feat/update deps](https://github.com/naveensrinivasan/scorecard-action/pull/20) on [naveensrinivasan/scorecard-action](https://github.com/naveensrinivasan/scorecard-action) (1 day ago)
-- [Naveen/feat/update deps](https://github.com/naveensrinivasan/scorecard-action/pull/19) on [naveensrinivasan/scorecard-action](https://github.com/naveensrinivasan/scorecard-action) (1 day ago)
-- [Naveen/feat/update deps](https://github.com/naveensrinivasan/scorecard-action/pull/18) on [naveensrinivasan/scorecard-action](https://github.com/naveensrinivasan/scorecard-action) (1 day ago)
-- [Naveen/feat/update deps](https://github.com/naveensrinivasan/scorecard-action/pull/16) on [naveensrinivasan/scorecard-action](https://github.com/naveensrinivasan/scorecard-action) (1 day ago)
-
 #### ⭐ Recent Stars
 
 - [google/mangle](https://github.com/google/mangle) -  (2 weeks ago)
