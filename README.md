@@ -10,7 +10,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) - Website and API for OpenSSF Scorecard (2 days ago)
+- [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) - Website and API for OpenSSF Scorecard (3 days ago)
 - [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (1 week ago)
 - [naveensrinivasan/naveensrinivasan.github.io](https://github.com/naveensrinivasan/naveensrinivasan.github.io) -  (1 week ago)
 - [guacsec/guac](https://github.com/guacsec/guac) - GUAC aggregates software security metadata into a high fidelity graph database. (1 week ago)
@@ -24,7 +24,7 @@
 
 #### ⭐ Recent Stars
 
-- [google/mangle](https://github.com/google/mangle) -  (2 weeks ago)
+- [google/mangle](https://github.com/google/mangle) -  (3 weeks ago)
 - [varunshenoy/GraphGPT](https://github.com/varunshenoy/GraphGPT) - Extrapolating knowledge graphs from unstructured text using GPT-3 🕵️‍♂️ (3 weeks ago)
 - [guacsec/guac](https://github.com/guacsec/guac) - GUAC aggregates software security metadata into a high fidelity graph database. (3 weeks ago)
 - [RomanHotsiy/commitgpt](https://github.com/RomanHotsiy/commitgpt) - Automatically generate commit messages using ChatGPT (3 weeks ago)
