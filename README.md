@@ -2,6 +2,7 @@
 
 - [Homepage](https://naveensrinivasan.com/)
 - [LinkedIn](https://www.linkedin.com/in/naveensrinivasan/)
+- [Twitter](https://twitter.com/Naveen_Srini_)
 
 ### Awards:
 - [Google Peer Bonus Award 2022](https://naveensrinivasan.com/posts/2022-09-06-google-peer-bonus/)
