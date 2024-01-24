@@ -12,7 +12,7 @@
 2. [Meet a Maintainer: Naveen Srinivasan, Software Engineer - OpenSSF Blog](https://openssf.org/blog/2022/11/09/meet-a-maintainer-naveen-srinivasan-software-engineer-endor-labs/)
 
 ### Talks and Interviews:
-1. [How Do You Trust Your Open Source Software? - RSA Conference](https://www.rsaconference.com/Library/presentation/USA/2023/How%20Do%20You%20Trust%20Open%20Source%20Software)
-2. [Assessing the Risk of Open-source Components Using OpenSSF's Scorecard - YouTube](https://www.youtube.com/watch?v=x4bOTqdSRH8)
+1. [RSA Conference: How Do You Trust Your Open Source Software?](https://www.rsaconference.com/Library/presentation/USA/2023/How%20Do%20You%20Trust%20Open%20Source%20Software)
+2. [Open Source Summit North America 2021: Assessing the Risk of Open-source Components Using OpenSSF's Scorecard](https://www.youtube.com/watch?v=x4bOTqdSRH8)
 3. [How Do You Trust Your Open Source Software? - YouTube](https://www.youtube.com/watch?v=0b9avFup0LY&t=4s)
 4. [Interview about contributions to OSS and Supply Chain Security - YouTube](https://www.youtube.com/watch?v=0b9avFup0LY&t=4s)
