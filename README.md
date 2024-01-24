@@ -1,9 +1,18 @@
-### Hi there 👋
+## Naveen Srinivasan's Links
 
-- [Naveen Srinivasan](https://naveensrinivasan.com/)
+- [Homepage](https://naveensrinivasan.com/)
+- [LinkedIn](https://www.linkedin.com/in/naveensrinivasan/)
+
+### Awards:
 - [Google Peer Bonus Award 2022](https://naveensrinivasan.com/posts/2022-09-06-google-peer-bonus/)
 - [Google Peer Bonus Award 2021](https://naveensrinivasan.com/posts/google-peer-bonus-award/)
-- [RSA Talk](https://www.rsaconference.com/Library/presentation/USA/2023/How%20Do%20You%20Trust%20Open%20Source%20Software)
 
+### Publications:
+1. [Software Supply Chain Security - GitHub's Readme Guides](https://github.com/readme/guides/software-supply-chain-security)
+2. [Meet a Maintainer: Naveen Srinivasan, Software Engineer - OpenSSF Blog](https://openssf.org/blog/2022/11/09/meet-a-maintainer-naveen-srinivasan-software-engineer-endor-labs/)
 
-- [LinkedIn](https://www.linkedin.com/in/naveensrinivasan/)
+### Talks and Interviews:
+1. [How Do You Trust Your Open Source Software? - RSA Conference](https://www.rsaconference.com/Library/presentation/USA/2023/How%20Do%20You%20Trust%20Open%20Source%20Software)
+2. [Assessing the Risk of Open-source Components Using OpenSSF's Scorecard - YouTube](https://www.youtube.com/watch?v=x4bOTqdSRH8)
+3. [How Do You Trust Your Open Source Software? - YouTube](https://www.youtube.com/watch?v=0b9avFup0LY&t=4s)
+4. [Interview about contributions to OSS and Supply Chain Security - YouTube](https://www.youtube.com/watch?v=0b9avFup0LY&t=4s)
