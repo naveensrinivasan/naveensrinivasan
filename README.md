@@ -5,6 +5,7 @@
 - [Twitter](https://twitter.com/Naveen_Srini_)
 
 ### Awards:
+- [Google Peer Bonus Award 2024](https://naveensrinivasan.com/posts/third-peer-bonus/)
 - [Google Peer Bonus Award 2022](https://naveensrinivasan.com/posts/2022-09-06-google-peer-bonus/)
 - [Google Peer Bonus Award 2021](https://naveensrinivasan.com/posts/google-peer-bonus-award/)
 
