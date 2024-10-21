@@ -9,6 +9,9 @@
 - [Google Peer Bonus Award 2022](https://naveensrinivasan.com/posts/2022-09-06-google-peer-bonus/)
 - [Google Peer Bonus Award 2021](https://naveensrinivasan.com/posts/google-peer-bonus-award/)
 
+## Supply Chain Security
+- [How Minefield Enables Air-Gapped SBOM Vulnerability Graphing Like Git's Disconnected Mode](https://bitbom.dev/blog/Air-Gapped-Vulnerability)
+
 ### Publications:
 1. [Software Supply Chain Security - GitHub's Readme Guides](https://github.com/readme/guides/software-supply-chain-security)
 2. [Meet a Maintainer: Naveen Srinivasan, Software Engineer - OpenSSF Blog](https://openssf.org/blog/2022/11/09/meet-a-maintainer-naveen-srinivasan-software-engineer-endor-labs/)
