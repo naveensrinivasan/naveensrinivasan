@@ -11,6 +11,7 @@
 
 ## Supply Chain Security
 - [How Minefield Enables Air-Gapped SBOM Vulnerability Graphing Like Git's Disconnected Mode](https://bitbom.dev/blog/Air-Gapped-Vulnerability)
+- [Isolating and Fixing Vulnerabilities in an Air-Gapped Environment](https://bitbom.dev/blog/isolating-and-fixing-vulnerabilities-in-an-air-gapped-environment)
 
 ### Publications:
 1. [Software Supply Chain Security - GitHub's Readme Guides](https://github.com/readme/guides/software-supply-chain-security)
